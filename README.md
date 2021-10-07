@@ -1,1 +1,1 @@
-https://github.com/WilliamHJF/fa21-cse110-lab3
+https://williamhjf.github.io/fa21-cse110-lab3/
