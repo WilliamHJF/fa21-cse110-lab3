@@ -124,23 +124,3 @@ audio{
 input[type="checkbox"]:checked{
     background: pink;
 }
-
-div p{
-    background-color: rgb(8, 178, 230);
-}
-
-div > p{
-    background-color: rgb(240, 224, 6);
-}
-
-div + p{
-    background-color: rgb(224, 16, 145);
-}
-
-div ~ p{
-    background-color: rgb(240, 89, 20);
-}
-
-p.new{
-    background-color:rgb(53, 5, 5);
-}
